@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+}
+
+#header-container {
+  padding-top: 120px;
+  padding-bottom: 60px;
+  max-width: 100%;
+  background-color: #D3EBFA;
+}
+
+#counters {
+  color: white;
+}
+
+#card-container {
+  margin-top: 120px;
+}
+
+.card {
+  width: 200px;
+}
+
+#logo {
+  font-family: 'Barlow', sans-serif;
+}
+
+.subtitle, #counters {
+  font-family: 'Roboto', sans-serif;
+}
